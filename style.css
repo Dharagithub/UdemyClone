@@ -257,6 +257,8 @@ body {
 
     .nav-four{
         display: block;
+        font-size: 20px;
+        color:#A435F0
     }
 
     .sale-img img{
@@ -265,10 +267,11 @@ body {
     }
 
     .sale-img__offer{
-        width: 30%;
+        width: 200px;
         position: absolute;
         top:70px;
         left:20px;
+        
     }
 
     .categories{
